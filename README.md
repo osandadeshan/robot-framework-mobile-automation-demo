@@ -41,7 +41,7 @@ Robot Framework development is sponsored by [Robot Framework Foundation](http://
 
     `python3 -V`
 
-5. Install [pip](https://pip.pypa.io/ "pip").
+5. Install [pip](https://pip.pypa.io/ "pip")
 
     `pip3 -V`
 
