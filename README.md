@@ -1,4 +1,4 @@
-# Robot Framework Page Object Model Demo
+# Robot Framework Mobile Automation Demo
 
 This project serves as a boilerplate for automating both Android and iOS mobile applications using a single codebase with Robot Framework and the Appium library.
 
